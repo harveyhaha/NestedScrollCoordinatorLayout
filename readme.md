@@ -1,0 +1,1 @@
+appbarlayout 向上滑动，施加惯性，使recyleView 惯性滑动
